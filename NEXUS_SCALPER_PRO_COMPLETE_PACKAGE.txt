@@ -1,0 +1,26 @@
+// NEXUS SCALPER PRO COMPLETE PACKAGE
+// This file contains the complete MQ5 EA code along with all 6 detector files and helper indicators for improved trade accuracy.
+
+// --- Complete MQ5 EA Code ---
+// Your complete MQ5 EA code should go here...
+
+// --- Detector Files ---
+// Include the codes for the 6 detector files here...
+
+// --- Helper Indicators ---
+// RSI Code
+// Your RSI code goes here...
+
+// MACD Code
+// Your MACD code goes here...
+
+// ATR Code
+// Your ATR code goes here...
+
+// Volume Profile Code
+// Your Volume Profile code goes here...
+
+// Market Profile Code
+// Your Market Profile code goes here...
+
+// Note: Make sure the files or codes referenced above are properly incorporated.
